@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: cascading:cascading-core:2.6.x">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cascading/cascading-core/2.6.x/cascading-core-2.6.x.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/cascading/cascading-core/2.6.x/cascading-core-2.6.x-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/cascading/cascading-core/2.6.x/cascading-core-2.6.x-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: cascading:cascading-xml:2.6.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cascading/cascading-xml/2.6.0/cascading-xml-2.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/cascading/cascading-xml/2.6.0/cascading-xml-2.6.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/cascading/cascading-xml/2.6.0/cascading-xml-2.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

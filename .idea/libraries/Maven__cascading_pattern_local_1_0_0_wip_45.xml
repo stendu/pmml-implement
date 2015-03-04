@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: cascading:pattern-local:1.0.0-wip-45">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cascading/pattern-local/1.0.0-wip-45/pattern-local-1.0.0-wip-45.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/cascading/pattern-local/1.0.0-wip-45/pattern-local-1.0.0-wip-45-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/cascading/pattern-local/1.0.0-wip-45/pattern-local-1.0.0-wip-45-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
